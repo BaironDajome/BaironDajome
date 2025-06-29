@@ -1,9 +1,5 @@
 
 <div>
-
-  <!-- Imagen de perfil -->
-  <img align="right" width="370" alt="Mi foto" src="https://avatars.githubusercontent.com/u/112734161?v=4" />
-
 <!-- GitHub Stats (sin alineación) -->
 <div style="margin-top: 10px;">
   <h3>📊 GitHub Stats</h3>
