@@ -5,7 +5,7 @@
   <img align="right" width="400" alt="Mi foto" src="https://avatars.githubusercontent.com/u/112734161?v=4" />
 
 <!-- GitHub Stats (sin alineación) -->
-<div style="margin-top: 20px;">
+<div style="margin-top: 10px;">
   <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/BaironDajome">
     <img src="https://github-readme-stats.vercel.app/api?username=BaironDajome&show_icons=true&theme=dracula&hide_border=true&locale=es" />
